@@ -1,9 +1,9 @@
 import React, { useState , useEffect } from 'react'
 import Image from "next/image";
 import { ComingSoon1, ComingSoon2, ComingSoon3, ComingSoon4, } from '@/public/assets';
-// import { RiGithubLine } from "react-icons/ri";
-// import { FiExternalLink } from "react-icons/Fi";
-// import { SlSocialYoutube } from "react-icons/Sl";
+import { RiGithubLine } from 'react-icons/ri';
+import { SlSocialYoutube } from 'react-icons/sl';
+import { FiExternalLink } from 'react-icons/fi';
 
 
 interface Props {
