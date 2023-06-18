@@ -3,11 +3,10 @@ import Image from "next/image";
 import Link from "next/link";
 import React, { useRef, useState } from "react";
 import { motion } from "framer-motion";
-import { MdOutlineClose } from "react-icons/md";
-import { SiGithub } from "react-icons/Si";
-import { BsLinkedin } from "react-icons/Bs";
-import { TiSocialTwitter } from "react-icons/Ti";
-import { TiSocialInstagram } from "react-icons/Ti";
+import { MdOutlineClose } from 'react-icons/md';
+import { SiGithub } from 'react-icons/si';
+import { BsLinkedin } from 'react-icons/bs';
+import { TiSocialTwitter, TiSocialInstagram } from 'react-icons/ti';
 
 const Navbar = () => {
   const ref = useRef<string | any>("")
