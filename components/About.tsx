@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "next/image";
 import SectionTitle from "./SectionTitle";
-import { BsArrowRightSquare } from "react-icons/Bs";
 import { AiFillThunderbolt } from "react-icons/ai";
 
 import {
