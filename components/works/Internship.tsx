@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion';
-import { BsArrowRightShort } from "react-icons/Bs";
+import { BsArrowRightShort } from "react-icons/bs";
 
 
 const Internship = () => {
