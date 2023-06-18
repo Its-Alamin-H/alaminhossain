@@ -13,7 +13,7 @@ const Contact = () => {
            Lets get in touch
         </h2>
         <p className='max-w-[600px] text-center text-textDark'>
-            My inbox is always open and looking for new opportunities. <br /> Whether you have a question or just want to say hi, I'll try my best to get back to you!
+            My inbox is always open and looking for new opportunities. <br /> Whether you have a question or just want to say hi, I will try my best to get back to you!
         </p>
         <a href="itsalamin999@gmail.com">
             <button className='w-40 h-14 border border-textGreen mt-4 font-titleFont text-sm text-textGreen tracking-wider rounded-md hover:bg-hoverColor duration-300'> 
