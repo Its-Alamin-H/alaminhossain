@@ -34,10 +34,10 @@ const ProjectCard = ({ coverImage, title, description, gitLink, youtubeLink, liv
           >
             <div>
                 {/* Actual Image */}
-                <Image className="w-full h-full object-contain rounded-lg"  
+{/*                 <Image className="w-full h-full object-contain rounded-lg"  
                 src={ {coverImage} }                          
                 alt="Project1" 
-                />
+                /> */}
                 {/* Green overlay */}
                 <div className='absolute w-full h-full bg-textGreen/20 rounded-lg top-0 left-0 group-hover:bg-transparent duration-300 md:inline-block'></div>
             </div>
