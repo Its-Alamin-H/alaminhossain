@@ -2,9 +2,9 @@ import React from "react";
 import SectionTitle from "./SectionTitle";
 import Image from "next/image";
 import { ComingSoon1, ComingSoon2, ComingSoon3, ComingSoon4 } from "@/public/assets";
-import { RiGithubLine } from "react-icons/Ri";
-import { FiExternalLink } from "react-icons/Fi";
-import { SlSocialYoutube } from "react-icons/Sl";
+import { RiGithubLine } from "react-icons/ri";
+import { FiExternalLink } from "react-icons/fi";
+import { SlSocialYoutube } from "react-icons/sl";
 
 const Projects = () => {
   return (
