@@ -56,7 +56,7 @@ const About = () => {
               Hello! My name is Alamin Hossain and I am a <span className="text-textGreen">full stack developer</span> with a passion for
               learning and problem solving. I bring a wealth of enthusiasm and expertise to every project I undertake.
               <br /> <br />
-              I'm extremely motivated to constantly develop my skills and grow professionally. I have Knowledge and a huge interest in the world of {" "}
+              I am extremely motivated to constantly develop my skills and grow professionally. I have Knowledge and a huge interest in the world of {" "}
               Cryptocurrency and <span className="text-textGreen"> Web3.</span>. I have been learning about cryptocurrencies since 2017 and have had the opportunity 
               to work on a range of <span className="text-textGreen">crypto projects.</span>
               <br /> <br />
