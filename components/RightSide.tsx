@@ -11,7 +11,7 @@ const RightSide = () => {
         <a href="mailto:itsalamin999@gmail.com">
             <p 
             className='text-sm rotate-90 w-62 tracking-widest hover:text-textGreen cursor-pointer hover:-translate-y-2 transition-all duration-300'
-            >mailto:itsalamin999@gmail.com
+            >itsalamin999@gmail.com
             </p>
         </a>
         <span className='w-[2px] h-52 bg-textDark inline-flex'></span>
