@@ -1,5 +1,4 @@
 import logo from "./images/LogoBig.png";
-import profileImg from "./images/Devon.jpg";
 import profileImgCircle from "./images/Alamin_circle.png";
 
 import ComingSoon1 from "./images/ProjectPictures/ComingSoon1.jpg";
@@ -21,4 +20,4 @@ import PostgreSQL from "./images/Skills/PostgreSQL.ico";
 import MongoDB from "./images/Skills/MongoDB.png";
 import GraphQL from "./images/Skills/GraphQL.png";
 
-export { CSS, HTML, ReactL, Next, Redux, NodeJS, Express, PostgreSQL, MongoDB, GraphQL, JavaScriptL, TypeScript, Python, logo, profileImg, profileImgCircle, ComingSoon1, ComingSoon2, ComingSoon3, ComingSoon4,};
+export { CSS, HTML, ReactL, Next, Redux, NodeJS, Express, PostgreSQL, MongoDB, GraphQL, JavaScriptL, TypeScript, Python, logo, profileImgCircle, ComingSoon1, ComingSoon2, ComingSoon3, ComingSoon4,};
