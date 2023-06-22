@@ -29,7 +29,7 @@ const Banner = () => {
         <span className="text-lg md:text-2xl lg:text-3xl text-textDark mt-2 lgl:mt-4">
           <Typewriter
             options={{
-              strings: ["Computer Science Student", "Full-Stack Developer", "AI/ML Newbie", "Web3 Enthusiast", "Prompt engineer"],
+              strings: ["Computer Science Student", "Full-Stack Developer", "AI/ML Newbie", "Active Learner/Researcher", "Tech Enthusiast"],
               autoStart: true,
               loop: true,
             }}
